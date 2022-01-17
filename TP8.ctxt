@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=TP8
+comment1.params=
+comment1.target=int[]\ getArrayA()
+comment2.params=ArrayA
+comment2.target=void\ setArrayA(int[])
+comment3.params=posicao\ valor
+comment3.target=void\ setArrayANaPosicao(int,\ int)
+comment4.params=
+comment4.target=int[]\ getArrayB()
+comment5.params=ArrayB
+comment5.target=void\ setArrayB(int[])
+comment6.params=posicao\ valor
+comment6.target=void\ setArrayBNaPosicao(int,\ int)
+comment7.params=a\ b
+comment7.target=void\ calcula(int,\ int)
+comment8.params=ArrayA\ ArrayB
+comment8.target=void\ CalculaDivisaoArrays(int[],\ int[])
+numComments=9
